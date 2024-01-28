@@ -1,6 +1,9 @@
 # itsMikee
-Hi! I am Michael Amores, a graduating computer engineering student from Cebu Technological University's Main Campus. Below are the projects I've done during my academic years at the university. 
-Contact me via my personal email, amoresmichael100@gmail.com or via fb, https://www.facebook.com/michaeldelcapricorn?mibextid=ZbWKwL
+Hi! I am Michael Amores, a graduating computer engineering student from Cebu Technological University's Main Campus. 
+
+Below are the projects I've done during my academic years at the university. Contact me via my personal email, amoresmichael100@gmail.com or via fb, https://www.facebook.com/michaeldelcapricorn?mibextid=ZbWKwL
+
+
 
 
 MIT App connected to firebase and ESP32 for IOT project
