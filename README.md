@@ -11,6 +11,9 @@ MIT App connected to firebase and ESP32 for IOT project
 
 
 
+
+
+
 CISCO Computer Networking
 
 
@@ -18,10 +21,14 @@ CISCO Computer Networking
 
 
 
+
+
 Hotel Reservation C programming
 
 
 ![416263417_797176422443599_5996859114710528474_n](https://github.com/MikeeWaiPuke/itsMikee/assets/107799957/afed1633-b311-4115-b754-560480ae1008)
+
+
 
 
 
@@ -34,10 +41,14 @@ Mobile App Android Studio
 
 
 
+
+
 Web HTML, CSS, JavaScript
 
 
 ![416051439_896545205534164_1241434485429835003_n](https://github.com/MikeeWaiPuke/itsMikee/assets/107799957/74222993-75c1-43ff-89bb-27fbca8aba82)
+
+
 
 
 
@@ -46,6 +57,8 @@ Student Record Management Java and MySQL
 
 ![416007125_911388614040170_2529978584703663721_n](https://github.com/MikeeWaiPuke/itsMikee/assets/107799957/930a5375-6ac7-43d7-b5bf-9cdfac0c6d57)
 ![416035797_7481606885182587_189850110538972352_n](https://github.com/MikeeWaiPuke/itsMikee/assets/107799957/0c919a1a-f9d3-4208-8be1-0fa5cf765b92)
+
+
 
 
 
