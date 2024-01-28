@@ -1,5 +1,5 @@
 # MikeeWaiPuke
-Hi! I am Michael Amores, a graduating computer engineering student from Cebu Technological University's Main Campus. 
+Hi! I am Michael Amores, a graduating computer engineering student from Cebu Technological University's Main Campus. I would like to venture more in IoT, Data Science, Machine Learning, AI, web dev, and mobile dev.
 
 Below are the projects I've done during my academic years at the university. Contact me via my personal email, amoresmichael100@gmail.com or via fb, https://www.facebook.com/michaeldelcapricorn?mibextid=ZbWKwL
 
